@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/kilia/Desktop/fiit/PR_PR/PROJEKT 2/untitled/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
